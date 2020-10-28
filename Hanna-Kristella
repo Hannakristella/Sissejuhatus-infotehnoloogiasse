@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+<table style="width: 75%">
+	<tr>
+    <h2>
+    Minu andmed
+    </h2>
+    <th>Eesniminimi</th>
+     <th>Perekonnanimi</th>
+     <th>Martikli number</th>
+	</tr>
+    <tr>
+    <th>Hanna-Kristella</th>
+     <th>Lehtsaar</th>
+     <th>206831</th>
+     </tr>
+</table>
+<h2>Auh-auh</h2>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://static.bimago.com/mediacache/catalog/product/cache/5/8/90785/image/690x518/9f1d05f5f79b4600c89a1e23811fe66b/90785_1.png" width="645" height="484">
+<table>
+Lihtne veebileht koera pildiga.
+<table/>
+<a href="https://taltech.ee/">Üllatus</a>
+</body>
+</html>
